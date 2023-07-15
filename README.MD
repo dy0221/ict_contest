@@ -1,0 +1,1 @@
+It's just the first project. After studying Python and a simple machine learning model, i make a face comparison program.
